@@ -21,7 +21,7 @@ basis upon which modern technology is built.
 
 This system solves linear time-invariant systems in the form of:
 
-![alt text](https://drive.google.com/file/d/1ZXODKQH78LUBaEnh4V0RXm-HcIpDbRJB/view?usp=sharing/)
+![](https://github.com/AhmedEssam19/LTI-Solver/blob/master/equation.png)
 
 where m <= n.
 
